@@ -1,0 +1,16 @@
+site_name: MDUS Wiki
+theme:
+  name: material 
+  palette:
+    primary: teal
+    accent: orange
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/streamamz/MDUS
+repo_url: https://github.com/streamamz/MDUS
+repo_name: MDUS
+
+nav:
+  - Main Page: index.md
+  - tutorial.md
